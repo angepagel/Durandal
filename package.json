@@ -1,0 +1,19 @@
+{
+  "name": "durandal",
+  "version": "0.1.0",
+  "description": "",
+  "main": "durandal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angepagel/Durandal.git"
+  },
+  "author": "Ange Pagel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angepagel/Durandal/issues"
+  },
+  "homepage": "https://github.com/angepagel/Durandal#readme"
+}
