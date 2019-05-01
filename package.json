@@ -4,6 +4,7 @@
   "description": "",
   "main": "durandal.js",
   "scripts": {
+    "start": "node durandal.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
