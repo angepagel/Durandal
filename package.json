@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/angepagel/Durandal/issues"
   },
-  "homepage": "https://github.com/angepagel/Durandal#readme"
+  "homepage": "https://github.com/angepagel/Durandal#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
 }
